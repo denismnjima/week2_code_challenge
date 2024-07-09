@@ -5,4 +5,4 @@ The program allows the user to add items to a shopping list, mark/unmark them pu
 The program also alows you to delete items from the shopping list. To remove press the bin icon.
 
 ## Running
-To run clone the package or check the <a href="deployed.com">deployed version<a> 
+To run clone the package or check the <a href="[deployed.com](https://denismnjima.github.io/week2_code_challenge/)">deployed version<a> 
